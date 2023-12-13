@@ -29,7 +29,7 @@ ng serve -o
 > ```
 > npm install bootstrap jquery --save
 > ```
-> > ```
+> ```
 > npm install primeng
 > ```
 

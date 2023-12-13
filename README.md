@@ -28,6 +28,8 @@ ng serve -o
 > Para instalar Bootstrap, JQuery y PrimeNG:
 > ```
 > npm install bootstrap jquery --save
+> ```
+> > ```
 > npm install primeng
 > ```
 
